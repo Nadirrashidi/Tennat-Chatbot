@@ -1,0 +1,6 @@
+gradio
+faiss-cpu
+huggingface_hub
+transformers
+sentence-transformers
+python-docx
